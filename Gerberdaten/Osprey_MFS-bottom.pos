@@ -1,0 +1,7 @@
+### Module positions - created on 27.02.2019 21:34:07 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val            Package                     PosX       PosY       Rot  Side
+J2        MicroMatch_6P  ConnectorMicromatch-6  -114.0000  -114.1000    0.0000  bottom
+## End
